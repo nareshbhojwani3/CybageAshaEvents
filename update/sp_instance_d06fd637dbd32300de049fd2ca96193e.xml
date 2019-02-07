@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">05be1237dbd32300de049fd2ca961941</sp_column>
+        <sp_widget display_value="Form">fd1f4ec347730200ba13a5554ee490c0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-05 11:13:45</sys_created_on>
+        <sys_id>d06fd637dbd32300de049fd2ca96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Marketing Events" source="x_68708_marketing">f6982427db132300de049fd2ca9619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Events">f6982427db132300de049fd2ca9619e5</sys_scope>
+        <sys_update_name>sp_instance_d06fd637dbd32300de049fd2ca96193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-05 11:13:45</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d06fd637dbd32300de049fd2ca96193e"/>
+</record_update>
